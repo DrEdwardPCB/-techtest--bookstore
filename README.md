@@ -8,6 +8,8 @@ to create according to detailed requirement
 
 # live demo
 
+https://techtest-bookstore.vercel.app/
+
 # specification
 
 ## technical details
