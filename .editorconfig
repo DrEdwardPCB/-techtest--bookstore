@@ -1,0 +1,5 @@
+[*]
+tab_width = 2
+
+[*.{ts, js, tsx, jsx, json}]
+tab_width = 4
